@@ -26,7 +26,7 @@ body{
 
 
 .Hannes{
-  background-color: rgb(0, 255, 213);
+  background-color: rgba(66, 66, 66, 0.144);
   border-radius: 50%;
 
   width: min(400px, 85vw);
